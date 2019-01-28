@@ -1,0 +1,14 @@
+/home/nuwan/dotnet/web_api_mongo_db/BankApi/bin/Debug/netcoreapp2.2/BankApi.deps.json
+/home/nuwan/dotnet/web_api_mongo_db/BankApi/bin/Debug/netcoreapp2.2/BankApi.runtimeconfig.json
+/home/nuwan/dotnet/web_api_mongo_db/BankApi/bin/Debug/netcoreapp2.2/BankApi.runtimeconfig.dev.json
+/home/nuwan/dotnet/web_api_mongo_db/BankApi/bin/Debug/netcoreapp2.2/BankApi.dll
+/home/nuwan/dotnet/web_api_mongo_db/BankApi/bin/Debug/netcoreapp2.2/BankApi.pdb
+/home/nuwan/dotnet/web_api_mongo_db/BankApi/obj/Debug/netcoreapp2.2/BankApi.csprojAssemblyReference.cache
+/home/nuwan/dotnet/web_api_mongo_db/BankApi/obj/Debug/netcoreapp2.2/BankApi.csproj.CoreCompileInputs.cache
+/home/nuwan/dotnet/web_api_mongo_db/BankApi/obj/Debug/netcoreapp2.2/BankApi.RazorAssemblyInfo.cache
+/home/nuwan/dotnet/web_api_mongo_db/BankApi/obj/Debug/netcoreapp2.2/BankApi.RazorAssemblyInfo.cs
+/home/nuwan/dotnet/web_api_mongo_db/BankApi/obj/Debug/netcoreapp2.2/BankApi.AssemblyInfoInputs.cache
+/home/nuwan/dotnet/web_api_mongo_db/BankApi/obj/Debug/netcoreapp2.2/BankApi.AssemblyInfo.cs
+/home/nuwan/dotnet/web_api_mongo_db/BankApi/obj/Debug/netcoreapp2.2/BankApi.RazorTargetAssemblyInfo.cache
+/home/nuwan/dotnet/web_api_mongo_db/BankApi/obj/Debug/netcoreapp2.2/BankApi.dll
+/home/nuwan/dotnet/web_api_mongo_db/BankApi/obj/Debug/netcoreapp2.2/BankApi.pdb
